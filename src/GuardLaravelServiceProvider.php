@@ -1,6 +1,8 @@
 <?php
 
-class GuardLaravelServiceProvider {
+use Illuminate\Support\ServiceProvider;
+
+class GuardLaravelServiceProvider extends ServiceProvider {
     public function boot()
 {
     $this->loadMigrationsFrom(__DIR__.'/../database/migrations');

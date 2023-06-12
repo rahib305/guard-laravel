@@ -10,6 +10,13 @@
             "name": "Rahib"
         }
     ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "GuardLaravelServiceProvider"
+            ]
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
