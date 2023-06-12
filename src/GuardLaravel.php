@@ -1,7 +1,7 @@
 <?php
-namespace AccessLaravel;
+namespace GuardLaravel;
 
-class AccessLaravel {
+class GuardLaravel {
     public function access() {
         return "Accessed";
     }
