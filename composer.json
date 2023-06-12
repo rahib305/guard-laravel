@@ -13,7 +13,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Rahib305\\GuardLaravel\\GuardLaravelServiceProvider"
+                "GuardLaravelServiceProvider"
             ]
         }
     },
