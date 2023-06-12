@@ -1,5 +1,5 @@
 <?php
-namespace GuardLaravel;
+namespace Rahib305\GuardLaravel;
 
 class GuardLaravel {
     public function access() {
