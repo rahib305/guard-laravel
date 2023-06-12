@@ -1,0 +1,15 @@
+{
+    "name": "rahib305/guard-laravel",
+    "autoload": {
+        "psr-4": {
+            "Rahib305\\GuardLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rahib"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
