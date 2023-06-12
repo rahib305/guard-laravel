@@ -1,4 +1,5 @@
 <?php
+namespace Rahib305\GuardLaravel;
 
 use Illuminate\Support\ServiceProvider;
 
